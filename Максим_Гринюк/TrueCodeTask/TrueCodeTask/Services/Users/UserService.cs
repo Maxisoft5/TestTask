@@ -16,7 +16,6 @@ namespace TrueCodeTask.Services.Users
         public async Task<User> AddUser(User user)
         {
             user.Posts = null;
-            var s = _dataContext.Database.GetConnectionString();
             await _dataContext.Users.AddAsync(user);
             await _dataContext.SaveChangesAsync();
             return user;
