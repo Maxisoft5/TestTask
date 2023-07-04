@@ -1,0 +1,14 @@
+C:\Users\Maksym\source\repos\TrueCodeTask\TrueCodeTask.DataAccess\bin\Debug\net7.0\TrueCodeTask.DataAccess.deps.json
+C:\Users\Maksym\source\repos\TrueCodeTask\TrueCodeTask.DataAccess\bin\Debug\net7.0\TrueCodeTask.DataAccess.dll
+C:\Users\Maksym\source\repos\TrueCodeTask\TrueCodeTask.DataAccess\bin\Debug\net7.0\TrueCodeTask.DataAccess.pdb
+C:\Users\Maksym\source\repos\TrueCodeTask\TrueCodeTask.DataAccess\obj\Debug\net7.0\TrueCodeTask.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Maksym\source\repos\TrueCodeTask\TrueCodeTask.DataAccess\obj\Debug\net7.0\TrueCodeTask.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maksym\source\repos\TrueCodeTask\TrueCodeTask.DataAccess\obj\Debug\net7.0\TrueCodeTask.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Maksym\source\repos\TrueCodeTask\TrueCodeTask.DataAccess\obj\Debug\net7.0\TrueCodeTask.DataAccess.AssemblyInfo.cs
+C:\Users\Maksym\source\repos\TrueCodeTask\TrueCodeTask.DataAccess\obj\Debug\net7.0\TrueCodeTask.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Maksym\source\repos\TrueCodeTask\TrueCodeTask.DataAccess\obj\Debug\net7.0\TrueCodeTask.DataAccess.dll
+C:\Users\Maksym\source\repos\TrueCodeTask\TrueCodeTask.DataAccess\obj\Debug\net7.0\refint\TrueCodeTask.DataAccess.dll
+C:\Users\Maksym\source\repos\TrueCodeTask\TrueCodeTask.DataAccess\obj\Debug\net7.0\TrueCodeTask.DataAccess.pdb
+C:\Users\Maksym\source\repos\TrueCodeTask\TrueCodeTask.DataAccess\obj\Debug\net7.0\ref\TrueCodeTask.DataAccess.dll
+C:\Users\Maksym\source\repos\TrueCodeTask\TrueCodeTask.DataAccess\bin\Debug\net7.0\TrueCodeTask.DataAccess.runtimeconfig.json
+C:\Users\Maksym\source\repos\TrueCodeTask\TrueCodeTask.DataAccess\obj\Debug\net7.0\TrueCodeTask.DataAccess.genruntimeconfig.cache

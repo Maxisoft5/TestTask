@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TrueCodeTask</name>
+    </assembly>
+    <members>
+        <member name="M:TrueCodeTask.Controllers.PostsController.GetByUser(System.Int32,System.Int32)">
+            <summary>
+            Return postCount last posts concrete user with userId, posts will be ordered by asc publish date
+            </summary>
+        </member>
+    </members>
+</doc>
